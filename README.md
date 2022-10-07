@@ -1,1 +1,1 @@
-# Network-Guided-Sparse-Subspace-Clustering
+# NetworkSSC
