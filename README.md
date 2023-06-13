@@ -1,1 +1,2 @@
 # NetworkSSC
+![plot](diagram.pdf)
