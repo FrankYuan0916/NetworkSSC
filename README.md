@@ -1,2 +1,2 @@
 # NetworkSSC
-![plot](workflow.jpg)
+![plot](figures/workflow.jpg)
